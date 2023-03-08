@@ -20,7 +20,7 @@ page-footer:
   
 format:
   html:
-    theme: sandstone
+    theme: minimal
     css: styles.css
     toc: true
 
