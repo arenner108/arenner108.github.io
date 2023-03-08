@@ -1,6 +1,9 @@
 [
   {
     "listing": "/about.html",
-    "items": []
+    "items": [
+      "/projects/Kernza/index.html",
+      "/projects/Honors Thesis/index.html"
+    ]
   }
 ]
