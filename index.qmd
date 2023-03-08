@@ -1,0 +1,16 @@
+---
+title: "Home"
+about: 
+  template: solana
+  image: images/LinkedinProfile.jpg
+---
+
+::: {#intro-heading}
+Senior at Macalester College studying biology and data science <br> Researching the concomitant effects of garlic mustard (*Alliaria petiolata*)and white-tailed deer (*Odocoileus virginianis*)on native herbs.
+
+## Education
+
+Macalester College \| St. Paul MN <br> B.A. in Biology \| Sept 2019 - May 2023 Minor in Data Science
+:::
+
+------------------------------------------------------------------------
